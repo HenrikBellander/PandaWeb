@@ -1,15 +1,25 @@
 h1 {
 font-family: comic sans;
 font-size: 50px;
+text-shadow: 3px 2px 15px #00ff00;
 }
 
+h2 {
+text-shadow: 3px 2px 15px #00ff00;
+}
+
+#main {
+background-color: black;
+margin: 15px;
+}
 
 body {
     font-size: 14px;
     font-family: papyrus, arial;
     color: white;
-    background-color: black;
+    background-color: yellow;
     text-align: center;
+    margin-color: yellow;
     margin: auto;
     width: 50%;
 border-style: dotted;
