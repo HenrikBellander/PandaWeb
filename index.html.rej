@@ -1,0 +1,12 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -47,8 +47,8 @@
+         <td>n/a</td>
+     </tr>
+     <tr>
+-        <td>1987</td>
+-        <td>>1000</td>
++        <td>19871000</td>
++        <td>-</td>
+         <td>n/a</td>
+     </tr>
+ </table>
