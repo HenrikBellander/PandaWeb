@@ -1,10 +1,16 @@
 
+
+#main {
+background-color: black;
+margin: 15px;
+}
+
 body {
     font-size: 14px;
     font-family: papyrus, arial;
-    color: white;
-    background-color: black;
+    background-color: yellow;
     text-align: center;
+    margin-color: yellow;
     margin: auto;
     width: 50%;
 border-style: dotted;
@@ -13,8 +19,6 @@ border-width: 15px;
 padding: 30px 15px 30px;
 }
 
-<<<<<<< HEAD
-=======
 h1 {
 color: #005500;
 font-family: comic sans;
@@ -28,8 +32,8 @@ text-shadow: 3px 2px 15px #00ff00;
 color: #005500;
 }
 
->>>>>>> 917bee4... Gröna headers
 p{
+color: white;
 border-style: outset;
 border-color: white;
 border-width: 20px;
