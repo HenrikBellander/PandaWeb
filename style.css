@@ -2,7 +2,28 @@
 
 #main {
 background-color: black;
-margin: 15px;
+}
+
+#bigp{
+background: url("1280px-Grosser_Panda.JPG");
+display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+max-width:400px;
+    height:auto;
+}
+
+
+#bigp:hover{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+max-width:400px;
+    height:auto;
+content: url("Openmouth.jpg");
+display: inline;
+
 }
 
 body {
@@ -13,10 +34,9 @@ body {
     margin-color: yellow;
     margin: auto;
     width: 50%;
-border-style: dotted;
-border-color: #aaaaaa;
-border-width: 15px;
-padding: 30px 15px 30px;
+border-style: solid;
+border-color: pink;
+border-width: 0px 30px 0px;
 }
 
 h1 {
@@ -24,7 +44,7 @@ color: #005500;
 font-family: comic sans;
 font-size: 50px;
 text-shadow: 3px 2px 15px #00ff00;
-
+background-color: #cc33ff;
 }
 
 h2 {
@@ -34,6 +54,7 @@ color: #005500;
 
 p{
 color: white;
+background-color: green;
 border-style: outset;
 border-color: white;
 border-width: 20px;
