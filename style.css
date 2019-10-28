@@ -13,3 +13,19 @@ img {
     max-width:400px;
     height:auto;
 }
+
+table {
+    
+    background-color: #ccc;
+    color: black;
+    	
+}
+
+th {
+border: 1px solid black;
+text-align: center;
+}
+
+td {
+text-align: center;
+}
