@@ -8,8 +8,9 @@ body {
     font-size: 14px;
     font-family: papyrus, arial;
     color: white;
-    background-color: black;
+    background-color: yellow;
     text-align: center;
+    margin-color: yellow;
     margin: auto;
     width: 50%;
 border-style: dotted;
