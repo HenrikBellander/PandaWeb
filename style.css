@@ -20,7 +20,7 @@ padding: 30px 15px 30px;
 }
 
 h1 {
-text-color: green;
+color: #005500;
 font-family: comic sans;
 font-size: 50px;
 text-shadow: 3px 2px 15px #00ff00;
@@ -29,7 +29,7 @@ text-shadow: 3px 2px 15px #00ff00;
 
 h2 {
 text-shadow: 3px 2px 15px #00ff00;
-text-color: #005500;
+color: #005500;
 }
 
 p{
